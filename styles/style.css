@@ -60,7 +60,7 @@ font-size: 36px;
  font-size: 18px;
  line-height: 27px;
  padding: 18px 30px;
-
+color: white;
 }
 
 .btn-branding-outline{
@@ -93,4 +93,27 @@ font-size: 36px;
         padding: 0;
         text-align: center;
     }
+
+    .about-section {
+    padding: 0;
+    text-align: center;
+    }
+
+}
+
+.about-section {
+padding: 160px 20px;
+}
+
+.about-section-content {
+padding: 30px;
+}
+
+
+.about-section h1{
+font-size: 64px;
+}
+
+.about-section h2{
+font-size: 18px;
 }
